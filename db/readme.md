@@ -1,3 +1,5 @@
 # Моя первая работа
 
-![](https://pandao.github.io/editor.md/examples/images/4.jpg)
+![](otus/img/T54A6863 копия.jpg)
+
+
